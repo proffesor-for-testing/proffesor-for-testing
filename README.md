@@ -3,6 +3,7 @@
 **Agentic Quality Engineer | Bridging Classical QE to the Future**
 
 Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and founding the **Serbian Agentic Foundation Chapter** - Serbia's first community for agentic engineering practices.
+
 [My portfolio](https://spiridonovdragan.com)
 
 ## 🚀 What I'm Building

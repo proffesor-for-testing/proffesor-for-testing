@@ -23,6 +23,7 @@ graph LR
 
 ## 🛠️ Current Focus
 
+- **⚡ Quality Forge** - Open-source initiative bridging classical to agentic QE with production-tested tools and PACT principles
 - **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACT-based approaches
 - **🇷🇸 Serbian Agentic Foundation** - Building Serbia's first Agentic QE community with StartIt centers
 - **🤖 AQE Fleet** - Production-ready distributed AI testing framework with 16 specialized agents for comprehensive quality automation
@@ -79,11 +80,12 @@ Agentic QE Goals:
 
 | Project | Description | Status | Stack |
 |---------|-------------|--------|-------|
+| **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | 🚀 Active | TypeScript, Rust, Python |
 | **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 16 specialized agents | 🚀 Active | TypeScript, Node.js |
-| **Sentinel** | Multi-agent test orchestration framework | 🚧 Alpha | Rust, Python |
-| **Agentic QE Playbook** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
+| **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | 🚧 Alpha | Rust, Python |
+| **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
 | **Serbian Foundation** | Community building & meetups | 🚀 Active | IRL + Virtual |
-| **Quantum QE** | Boutique consultancy for agentic transformation | ✅ Live | Context-driven |
+| **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | ✅ Live | Context-driven |
 
 ## 💬 Let's Talk About
 

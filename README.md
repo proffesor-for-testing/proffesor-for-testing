@@ -9,7 +9,8 @@ Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and fou
 ## 🚀 What I'm Building
 
 ### The Evolution: Classical → Agentic QE
-After 15+ years in quality engineering, I'm now focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
+29 years in IT - Started in 1996 doing computer repair and sysadmin, spent the last 12 years establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
+I'm now focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
 
 ```mermaid
 graph LR

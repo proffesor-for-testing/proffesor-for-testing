@@ -25,6 +25,7 @@ graph LR
 
 - **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACT-based approaches
 - **🇷🇸 Serbian Agentic Foundation** - Building Serbia's first Agentic QE community with StartIt centers
+- **🤖 AQE Fleet** - Production-ready distributed AI testing framework with 16 specialized agents for comprehensive quality automation
 - **📚 Agentic QE Framework** - Open-sourcing battle-tested patterns for agent-orchestrated testing
 - **🦀 Sentinel** - Multi-agent testing orchestration system (Rust/Python)
 
@@ -78,6 +79,7 @@ Agentic QE Goals:
 
 | Project | Description | Status | Stack |
 |---------|-------------|--------|-------|
+| **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 16 specialized agents | 🚀 Active | TypeScript, Node.js |
 | **Sentinel** | Multi-agent test orchestration framework | 🚧 Alpha | Rust, Python |
 | **Agentic QE Playbook** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
 | **Serbian Foundation** | Community building & meetups | 🚀 Active | IRL + Virtual |

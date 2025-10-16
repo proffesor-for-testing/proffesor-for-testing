@@ -23,7 +23,7 @@ graph LR
 
 ## 🛠️ Current Focus
 
-- **⚡ Quality Forge** - Open-source initiative bridging classical to agentic QE with production-tested tools and PACT principles
+- **⚡ Quality Forge** - Learning and experience sharing initiative bridging classical to agentic QE with production-tested tools and PACT principles
 - **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACT-based approaches
 - **🇷🇸 Serbian Agentic Foundation** - Building Serbia's first Agentic QE community with StartIt centers
 - **🤖 AQE Fleet** - Production-ready distributed AI testing framework with 16 specialized agents for comprehensive quality automation

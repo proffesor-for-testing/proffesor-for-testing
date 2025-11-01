@@ -82,7 +82,7 @@ Agentic QE Goals:
 |---------|-------------|--------|-------|
 | **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | 🚀 Active | TypeScript, Rust, Python |
 | **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 18 specialized agents | 🚀 Active | TypeScript, Node.js |
-| **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | 🚀 Active | 🚧 1.1.0 Alpha | Rust, Python |
+| **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | 🚀 Active | Rust, Python |
 | **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
 | **Serbian Foundation** | Community building & meetups | 🚀 Active | IRL + Virtual |
 | **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | ✅ Live | Context-driven |

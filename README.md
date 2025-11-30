@@ -85,7 +85,7 @@ Agentic QE Goals:
 | **[LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet)** | Python-based agentic QE platform with 18 specialized AI agents built on LionAGI orchestration | 🚀 Active | Python, LionAGI |
 | **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | 🚀 Active | Rust, Python |
 | **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
-| **Serbian Foundation** | Community building & meetups | 🚀 Active | IRL + Virtual |
+| **[Serbian A.Foundation](https://www.youtube.com/@AgenticFoundationSerbia)** | Community building & meetups | 🚀 Active | IRL + Virtual |
 | **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | ✅ Live | Context-driven |
 
 ## 💬 Let's Talk About

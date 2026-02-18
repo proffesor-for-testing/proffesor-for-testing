@@ -113,7 +113,7 @@ Agentic QE Goals:
 
 ### 🔮 The Future of Quality
 
-> "We're not replacing testers with AI. We're evolving from testing-as-activity to agents-as-orchestrators. The future of quality is autonomous but explainable, proactive but controlled, collaborative but targeted. That's PACT."
+> "We're not replacing testers with AI. We're evolving to orchestrators of agents. The future of quality is autonomous but explainable, proactive but controlled, collaborative but targeted. That's PACT."
 
 ---
 

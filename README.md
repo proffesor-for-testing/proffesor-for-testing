@@ -9,7 +9,7 @@ Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and fou
 ## 🚀 What I'm Building
 
 ### The Evolution: Classical → Agentic QE
-29 years in IT - Started in 1996 doing computer repair and sysadmin, spent the last 12 years establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
+30 years in IT - Started in 1996 doing computer repair and sysadmin, spent the last 12 years establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
 I'm now focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
 
 ```mermaid
@@ -57,13 +57,13 @@ I practice what I call the **Holistic Testing Model** - quality across all dimen
 ## 📊 Real Impact, Not Hype
 
 ```
-Classical QE Achievements:
+Previous QE Achievements:
 ├── 60% faster test generation with AI assistance
 ├── 85% reduction in test maintenance through smart automation
 └── 4x improvement in defect detection with exploratory agents
 
 Agentic QE Goals:
-├── 10x improvement in test effectiveness (not just speed)
+├── Constant improvement in test effectiveness (not just speed)
 ├── Self-healing test suites that evolve with the product
 └── Autonomous quality orchestration with human oversight
 ```
@@ -80,13 +80,13 @@ Agentic QE Goals:
 
 | Project | Description | Status | Stack |
 |---------|-------------|--------|-------|
-| **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | 🚀 Active | TypeScript, Rust, Python |
-| **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 18 specialized agents | 🚀 Active | TypeScript, Node.js |
-| **[LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet)** | Python-based agentic QE platform with 18 specialized AI agents built on LionAGI orchestration | 🚀 Active | Python, LionAGI |
-| **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | 🚀 Active | Rust, Python |
-| **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | 📖 v0.2 | Markdown, YAML |
-| **[Serbian A.Foundation](https://www.youtube.com/@AgenticFoundationSerbia)** | Community building & meetups | 🚀 Active | IRL + Virtual |
-| **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | ✅ Live | Context-driven |
+| **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | Active | TypeScript, Rust, Python |
+| **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 18 specialized agents | Active | TypeScript, Node.js |
+| **[LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet)** | Python-based agentic QE platform with 18 specialized AI agents built on LionAGI orchestration | Active | Python, LionAGI |
+| **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | Active | Rust, Python |
+| **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | Active | Markdown, YAML |
+| **[Serbian A.Foundation](https://www.youtube.com/@AgenticFoundationSerbia)** | Community building & meetups | Active | IRL + Virtual |
+| **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | Active | Context-driven |
 
 ## 💬 Let's Talk About
 
@@ -104,10 +104,10 @@ Agentic QE Goals:
 
 ## 🎲 Fun Facts
 
-- 📚 SF/Fantasy enthusiast - Agent systems are like "fellowship of specialized beings"
+- 📚 SF/Fantasy enthusiast - Agent systems are like "fellowship of specialized beings."
 - 🎭 Quality orchestration = "conducting the testing orchestra"
 - 🎮 Former Test'RS Club co-founder - Serbia's first testing community
-- 🌉 Bridge builder - Connecting 20+ years of classical QE with agentic future
+- 🌉 Bridge builder - Connecting 12+ years of classical QE with agentic future
 
 ---
 
@@ -120,8 +120,3 @@ Agentic QE Goals:
 ⚡ **Currently available for**: Agentic QE transformation consulting | Speaking engagements | Community partnerships
 
 
-## 📈 GitHub Stats
-
-![Dragan's GitHub stats](https://github-readme-stats.vercel.app/api?username=proffesor-for-testing&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=proffesor-for-testing&layout=compact&theme=dark)

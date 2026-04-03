@@ -9,8 +9,8 @@ Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and fou
 ## 🚀 What I'm Building
 
 ### The Evolution: Classical → Agentic QE
-30 years in IT - Started in 1996 doing computer repair and sysadmin, spent the last 12 years establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
-I'm now focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
+30 years in IT - Started in 1996 doing computer repair and sysadmin, since 2014, establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
+From October 2025, I'm focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
 
 ```mermaid
 graph LR
@@ -26,7 +26,7 @@ graph LR
 - **⚡ Quality Forge** - Learning and experience sharing initiative bridging classical to agentic QE with production-tested tools and PACT principles
 - **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACT-based approaches
 - **🇷🇸 Serbian Agentic Foundation** - Building Serbia's first Agentic QE community with StartIt centers
-- **🤖 AQE Fleet** - Production-ready distributed AI testing framework with 16 specialized agents for comprehensive quality automation
+- **🤖 Agentic QE Fleet** - An open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring specialized agents and skills to support testing activities for a product at any stage of the SDLC.
 - **📚 Agentic QE Framework** - Open-sourcing battle-tested patterns for agent-orchestrated testing
 - **🦀 Sentinel** - Multi-agent testing orchestration system (Rust/Python)
 
@@ -81,7 +81,7 @@ Agentic QE Goals:
 | Project | Description | Status | Stack |
 |---------|-------------|--------|-------|
 | **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | Active | TypeScript, Rust, Python |
-| **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 18 specialized agents | Active | TypeScript, Node.js |
+| **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 60 specialized agents | Active | TypeScript, Node.js |
 | **[LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet)** | Python-based agentic QE platform with 18 specialized AI agents built on LionAGI orchestration | Active | Python, LionAGI |
 | **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | Active | Rust, Python |
 | **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | Active | Markdown, YAML |
@@ -113,7 +113,7 @@ Agentic QE Goals:
 
 ### 🔮 The Future of Quality
 
-> "We're not replacing testers with AI. We're evolving to orchestrators of agents. The future of quality is autonomous but explainable, proactive but controlled, collaborative but targeted. That's PACT."
+> "We're not replacing testers with AI. We're evolving to orchestrators of agents. The future of quality is autonomous yet explainable, proactive yet controlled, collaborative yet targeted. That's PACT."
 
 ---
 

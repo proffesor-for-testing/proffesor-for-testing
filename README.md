@@ -9,22 +9,23 @@ Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and fou
 ## 🚀 What I'm Building
 
 ### The Evolution: Classical → Agentic QE
-30 years in IT - Started in 1996 doing computer repair and sysadmin, since 2014, establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
+30+ years in IT - Started in 1996 doing computer repair and sysadmin, since 2014, establishing and leading QA/QE functions. Built Alchemy's QA/QE organization from scratch over 8 years. 
 From October 2025, I'm focused on the practical evolution from traditional testing to agent-orchestrated quality systems. Not replacement - evolution.
 
 ```mermaid
 graph LR
-    A[Classical QE] -->|PACT Principles| B[Agentic QE]
+    A[Classical QE] -->|PACTS Principles| B[Agentic QE]
     B --> C[Proactive]
     B --> D[Autonomous]
     B --> E[Collaborative]
     B --> F[Targeted]
+    B --> G[Structured]
 ```
 
 ## 🛠️ Current Focus
 
-- **⚡ Quality Forge** - Learning and experience sharing initiative bridging classical to agentic QE with production-tested tools and PACT principles
-- **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACT-based approaches
+- **⚡ Quality Forge** - Learning and experience sharing initiative bridging classical to agentic QE with production-tested tools and PACTS principles
+- **🏗️ Quantum QE Consulting** - Helping teams transform their quality practices through context-driven, PACTS-based approaches
 - **🇷🇸 Serbian Agentic Foundation** - Building Serbia's first Agentic QE community with StartIt centers
 - **🤖 Agentic QE Fleet** - An open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring specialized agents and skills to support testing activities for a product at any stage of the SDLC.
 - **📚 Agentic QE Framework** - Open-sourcing battle-tested patterns for agent-orchestrated testing
@@ -52,7 +53,7 @@ I practice what I call the **Holistic Testing Model** - quality across all dimen
 - **Multi-Agent Systems** - Rust for performance, Python for flexibility
 - **LLM Integration** - Prompt engineering for test generation
 - **Explainable AI** - Every agent decision has a traceable reason
-- **PACT Framework** - Proactive, Autonomous, Collaborative, Targeted agents
+- **PACTS Framework** - Proactive, Autonomous, Collaborative, Targeted, Structured agents
 
 ## 📊 Real Impact, Not Hype
 
@@ -82,9 +83,10 @@ Agentic QE Goals:
 |---------|-------------|--------|-------|
 | **[Quality Forge](https://forge-quality.dev)** | Umbrella initiative for open-source agentic QE tools and methodologies | Active | TypeScript, Rust, Python |
 | **[AQE Fleet](https://github.com/proffesor-for-testing/agentic-qe)** | Distributed AI-powered testing framework with 60 specialized agents | Active | TypeScript, Node.js |
+| **[nagual-qe](https://github.com/proffesor-for-testing/nagual-qe)** | Self-learning quality memory system — Rust-native reasoning bank with vector search and pattern learning for explainable QE | Active | Rust, SQLite, PostgreSQL |
 | **[LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet)** | Python-based agentic QE platform with 18 specialized AI agents built on LionAGI orchestration | Active | Python, LionAGI |
 | **[Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing)** | Multi-agent test orchestration framework | Active | Rust, Python |
-| **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACT-based testing | Active | Markdown, YAML |
+| **[Agentic QE Playbook](https://agentic-qe.dev)** | Open framework for PACTS-based testing | Active | Markdown, YAML |
 | **[Serbian A.Foundation](https://www.youtube.com/@AgenticFoundationSerbia)** | Community building & meetups | Active | IRL + Virtual |
 | **[Quantum QE](https://quantum-qe.dev)** | Boutique consultancy for agentic transformation | Active | Context-driven |
 
@@ -113,7 +115,7 @@ Agentic QE Goals:
 
 ### 🔮 The Future of Quality
 
-> "We're not replacing testers with AI. We're evolving to orchestrators of agents. The future of quality is autonomous yet explainable, proactive yet controlled, collaborative yet targeted. That's PACT."
+> "We're not replacing testers with AI. We're evolving to orchestrators of agents. The future of quality is autonomous yet explainable, proactive yet controlled, collaborative yet targeted, and structured — governance, observability, explainability. That's PACTS."
 
 ---
 

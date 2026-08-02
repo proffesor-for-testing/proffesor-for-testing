@@ -2,7 +2,7 @@
 
 **Agentic Quality Engineer | Bridging Classical QE to the Future**
 
-Currently building [Quantum Quality Engineering](https://quantum-qe.dev) and founding the **Serbian Agentic Foundation Chapter** - Serbia's first community for agentic engineering practices.
+Currently Head of Agentic Quality Engineering @ [Congitum One](https://cognitum.one/) and founding the **Serbian Agentics Foundation Chapter** - Serbia's first community for agentic engineering practices.
 
 [My portfolio](https://spiridonovdragan.com)
 

@@ -16,7 +16,7 @@ I build quality engineering tools, teach testing, and share what I learn. My wor
 | Understand the principles and tradeoffs | [Quality Forge](https://forge-quality.dev) and the [Agentic QE Playbook](https://agentic-qe.dev) |
 | Explore quality memory and learning | [nagual-qe](https://github.com/proffesor-for-testing/nagual-qe) |
 | Explore Python orchestration or API testing | [LionAGI QE Fleet](https://github.com/proffesor-for-testing/lionagi-qe-fleet) · [Sentinel](https://github.com/proffesor-for-testing/sentinel-api-testing) |
-| Learn with other practitioners | [Agentic Foundation Serbia](https://www.youtube.com/@AgenticFoundationSerbia) |
+| Learn with other practitioners | [Agentics Foundation Serbia](https://www.youtube.com/@AgenticsFoundationSerbia) |
 | Discuss your team's quality context | [Quantum QE](https://quantum-qe.dev) · [LinkedIn](https://www.linkedin.com/in/dragan-spiridonov) |
 
 <img src="assets/readme/practice-map.svg" width="100%" alt="My work connects testing practice to Agentic QE tools and back to shared learning through Quality Forge and community. This is a navigation map, not a runtime architecture." />
